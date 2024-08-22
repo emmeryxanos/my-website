@@ -1,0 +1,26 @@
+#title {
+    color:rgb(14, 116, 116) ;
+    font-weight: 800;
+}
+.para {
+    color: rgb(13, 182, 191);
+}
+body {
+    background: linear-gradient( 160deg,rgb(56,155,205), rgba(56, 155, 205, 0.2)); 
+    text-align: justify;
+    font-family: Arial, Helvetica, sans-serif;
+  /* background-image: url(https://hcommons.org/app/uploads/sites/1001669/2022/10/yin-adapted-2-scaled.jpg);*/
+   /* background-size: cover;*/
+}
+.link {
+    text-decoration: underline;
+}
+.end {
+    font-family: "lobster";
+}
+.img_tag{
+   // border : 8px solid rgba(4, 45, 65, 0.2)
+    margin :80px 40px;
+    float :right;
+  //  display :inline-block;
+}
